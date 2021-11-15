@@ -1,0 +1,8 @@
+<select name ="-select-" type="text" name="status[]" id="status" value="'.$rs1["Status"].'"">
+						<option default value="Appointment Registered">Appointment Registered</option>
+						<option value="Appointment Confirmed">Appointment Confirmed</option>
+						<option value="Appointment in Verification">Appointment in Verification</option>
+						<option value="Appointment Approved">Appointment Approved</option>
+						<option value="Appointment Cancelled by Client">Appointment Cancelled by Client</option>
+						<option value="Appointment Refused">Appointment Refused</option>
+						</select> </td></tr>';
